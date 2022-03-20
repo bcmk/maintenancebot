@@ -1,0 +1,11 @@
+*
+!*/
+!*.*
+*.dll
+*.so
+*.dylib
+*.exe
+*.exe~
+*.test
+*.out
+.idea/
